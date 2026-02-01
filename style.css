@@ -105,6 +105,14 @@ body {
       .hero {
         height: 70vh;
     }
+    /* Commit 46: تصميم للأجهزة اللوحية */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .benefits-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    
+}
 }
 
 
