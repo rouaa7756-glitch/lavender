@@ -128,6 +128,13 @@ body {
     box-shadow: 0 15px 30px rgba(138, 75, 171, 0.2);
 }
 
+/* Commit 48: تأثيرات النموذج */
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: none;
+    border-color: #8a4bab;
+    box-shadow: 0 0 0 3px rgba(138, 75, 171, 0.1);
+}
 
 
 
