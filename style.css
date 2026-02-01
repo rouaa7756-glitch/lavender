@@ -118,6 +118,12 @@ body {
 }
 }
 
+/* Commit 47: تأثيرات حركية */
+.benefit-card {
+    transition: all 0.3s ease;
+}
+
+
 
 
 
