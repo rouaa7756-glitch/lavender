@@ -75,6 +75,21 @@ body {
     background: linear-gradient(to right, #8a4bab, #6c3fa0);
 }
 
+/*: تنسيق قسم الهيرو */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(106, 76, 147, 0.7), rgba(108, 63, 160, 0.7)), 
+                url('images/lavender1.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+    position: relative;
+}
 
 
 
