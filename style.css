@@ -13,3 +13,14 @@ body {
     background-color: #f9f7fe;
     direction: rtl;
 }
+
+/* : تنسيقات شريط التنقل */
+.navbar {
+    background: linear-gradient(135deg, #8a4bab 0%, #6c3fa0 100%);
+    padding: 1rem 2rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 15px rgba(138, 75, 171, 0.3);
+}
