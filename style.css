@@ -99,6 +99,9 @@ body {
       .section-title {
         font-size: 2rem;
     }
+        .benefits-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 
