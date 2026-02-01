@@ -91,6 +91,12 @@ body {
     position: relative;
 }
 
+/*  تصميم للهواتف */
+@media (max-width: 768px) {
+    .nav-menu {
+        display: none;
+    }
+}
 
 
 
