@@ -96,6 +96,9 @@ body {
     .nav-menu {
         display: none;
     }
+      .section-title {
+        font-size: 2rem;
+    }
 }
 
 
