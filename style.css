@@ -128,7 +128,7 @@ body {
     box-shadow: 0 15px 30px rgba(138, 75, 171, 0.2);
 }
 
-/* Commit 48: تأثيرات النموذج */
+/* : تأثيرات النموذج */
 .contact-form input:focus,
 .contact-form textarea:focus {
     outline: none;
@@ -136,13 +136,19 @@ body {
     box-shadow: 0 0 0 3px rgba(138, 75, 171, 0.1);
 }
 
-/* Commit 49: تحميل متدرج للصور */
+/* : تحميل متدرج للصور */
 .gallery-item {
     opacity: 0;
     transform: translateY(20px);
     animation: fadeInUp 0.5s ease forwards;
 }
 
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
 
 
