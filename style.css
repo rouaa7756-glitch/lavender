@@ -24,3 +24,12 @@ body {
     z-index: 1000;
     box-shadow: 0 2px 15px rgba(138, 75, 171, 0.3);
 }
+
+/* : تنسيق الحاوية */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
