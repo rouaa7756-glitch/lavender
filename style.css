@@ -110,6 +110,9 @@ body {
     .benefits-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+    .container {
+        padding: 0 30px;
+    }
     
     
 }
