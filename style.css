@@ -102,6 +102,9 @@ body {
         .benefits-grid {
         grid-template-columns: 1fr;
     }
+      .hero {
+        height: 70vh;
+    }
 }
 
 
