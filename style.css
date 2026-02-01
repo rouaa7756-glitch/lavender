@@ -5,3 +5,11 @@
     box-sizing: border-box;
 }
 
+/* Commit 8: إعدادات الجسم الأساسية */
+body {
+    font-family: 'Arial', 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f7fe;
+    direction: rtl;
+}
